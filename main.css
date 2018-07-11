@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#mainContainer {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+#map {
+    padding: 0;
+}
+
+#basemapGallery {
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+}
