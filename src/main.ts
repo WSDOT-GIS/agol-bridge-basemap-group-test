@@ -1,11 +1,6 @@
-// import arcgisPortal from "esri/arcgis/Portal";
 import BasemapGallery from "esri/dijit/BasemapGallery";
 import Extent from "esri/geometry/Extent";
 import EsriMap from "esri/map";
-
-// const portal = new arcgisPortal.Portal(undefined as any);
-// portal.basemapGalleryGroupQuery =
-//   'group:a89e08f2cc584e55a23b76fa7c9b8618 AND type:"web map"';
 
 /**
  * Extent of WA.
