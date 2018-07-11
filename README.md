@@ -4,6 +4,8 @@ The code in this repository demonstrates a difference in behavior between differ
 
 When using a specific group as a source for the Basemap Gallery control, the current version of the API will show a login prompt to the user, but the user can cancel the prompt and the basemaps will still load. Using an earlier version of the API, there is no login prompt.
 
+**If you just want to try the sample without downloading anything, go to [the version hosted on Github Pages](https://wsdot-gis.github.io/agol-bridge-basemap-group-test/).**
+
 ## Installation
 
 ### Prerequisites
