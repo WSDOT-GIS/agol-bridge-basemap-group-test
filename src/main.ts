@@ -1,6 +1,9 @@
+import esriConfig from "esri/config";
 import BasemapGallery from "esri/dijit/BasemapGallery";
 import Extent from "esri/geometry/Extent";
 import EsriMap from "esri/map";
+
+esriConfig.defaults.io.corsEnabledServers.push("data.wsdot.wa.gov");
 
 /**
  * Extent of WA.
