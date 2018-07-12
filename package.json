@@ -12,7 +12,7 @@
   "license": "Unlicense",
   "private": true,
   "devDependencies": {
-    "@types/arcgis-js-api": "^3.25.0",
+    "@types/arcgis-js-api": "^4.8.0",
     "@types/dojo": "^1.9.40",
     "prettier": "^1.13.7",
     "serve": "^9.2.0",
